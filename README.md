@@ -1,3 +1,5 @@
 ![Alt text](https://github.com/bluewallumich/airbnb-explorer/blob/main/images/Airbnb_Explorers-1.jpg)
 
-![Size](https://badge-size.herokuapp.com/{bluewallumich}/{airbnb-explorer}/{main}/{steve_dash_addition.ipynb})
+<img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/bluewallumich/airbnb-explorer/main?style=plastic"> ![Jupyter](https://github.com/bluewallumich/airbnb-explorer/blob/main/images/Jupyter-Notebook-orange.svg)
+
+<h1 align="center">Intro Paragraph</h1>
