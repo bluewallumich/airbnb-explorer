@@ -11,17 +11,10 @@
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Featured Notebooks/Analysis/Deliverables">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+
   </ol>
 </details>
 
@@ -50,29 +43,12 @@ Clone the repo
    git clone git@github.com:bluewallumich/airbnb-explorer.git
    ```
 
-<!-- USAGE EXAMPLES -->
-## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<!-- Featured Notebooks/Analysis/Deliverables -->
+## Featured Notebooks/Analysis/Deliverables
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+* [Notebook](https://github.com/bluewallumich/airbnb-explorer/commit/615a25791866d4c6191c993c216d8a420fc5a0d4)
+* [Blog Post](https://docs.google.com/document/d/1t8foQMw95bVfnOoL5j_GaG9dzIU5rYVpUyPCaAUMzMU/edit)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
