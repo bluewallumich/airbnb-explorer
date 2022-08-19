@@ -47,11 +47,10 @@ Clone the repo
 <!-- Featured Notebooks/Analysis/Deliverables -->
 ## Featured Notebooks/Analysis/Deliverables
 
-* [Notebook](https://github.com/bluewallumich/airbnb-explorer/commit/615a25791866d4c6191c993c216d8a420fc5a0d4)
+* [Notebook](https://github.com/bluewallumich/airbnb-explorer/tree/main/Final_Notebooks)
 * [Blog Post](https://docs.google.com/document/d/1t8foQMw95bVfnOoL5j_GaG9dzIU5rYVpUyPCaAUMzMU/edit)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
