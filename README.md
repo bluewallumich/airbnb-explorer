@@ -77,7 +77,14 @@ Any contributions you make are **greatly appreciated**.  If you have a suggestio
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Future Plans -->
+## Future Plans
 
+[]Create more efficient models.
+[]Expand the data to include all datasets from inside airbnb.
+[]Create an API to link to inside airbnb
+[]Make visualization more memory efficient.
+[]Add more calculations and create more dashboards
 
 
  
