@@ -42,6 +42,10 @@ Clone the repo
    ```sh
    git clone git@github.com:bluewallumich/airbnb-explorer.git
    ```
+   
+   ####AWS
+   
+   Due to GitHub file restrictions, Amazon Web Services (AWS) was needed to store larger files.  When merged the size of the csv can vary between 1Mil rows to 500Mil rows.  A private key to our S3Bucket is provided with Full List and Readonly Access.  However, the files themselves can still be downloaded from "Inside Airbnb" website.  
 
 
 <!-- Featured Notebooks/Analysis/Deliverables -->
