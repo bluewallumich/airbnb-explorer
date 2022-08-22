@@ -1,11 +1,11 @@
-EDA REQUIREMENTS
+--EDA REQUIREMENTS--
+
 pandas--1.2.1
 numpy==1.19.5
 matplotlib==3.4.0
 boto3==1.21.32
-warnings
-io==part of the standard library no install needed(python 3.10.6)
-PREDICTIVE ANALYSIS REQUIREMENTS
+
+--PREDICTIVE ANALYSIS REQUIREMENTS--
 pandas==1.4.2
 numpy==1.21.5
 matplotlib==3.5.1
@@ -21,22 +21,10 @@ scipy==1.7.3
 boto3==1.21.32
 io part of the standard python library
 
-DASHBOARD REQRUIREMENTS 
-
-os
-datetime as dt
-pandas as pd
-numpy as np
-warnings
-urllib
-json
-jupyter_dash
-dash
-plotly.express
-dash_bootstrap_components
-dash.exceptions
-
-plotly.graph_objects
-plotly.graph_objs.scatter
-plotly.subplots
-plotly.figure_factory
+--DASHBOARD REQRUIREMENTS--
+pandas==1.4.2
+numpy==1.21.5
+jupyter_dash==0.4.2
+dash==2.6.1
+plotly==5.6.0
+dash_bootstrap_components==1.2.1
