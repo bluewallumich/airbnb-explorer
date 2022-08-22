@@ -36,12 +36,19 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 Clone the repo
    ```sh
    git clone git@github.com:bluewallumich/airbnb-explorer.git
    ```
+### Prerequisites
+
+Before running the project, we have to install some dependiencies from requriements.txt.
+``` pip
+pip install -r requirements.txt
+```
+ 
    
  #### AWS
    
